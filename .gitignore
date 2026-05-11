@@ -1,0 +1,26 @@
+# Dataset
+dataset/
+
+# Saved models
+saved_models/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+
+# Model files
+*.h5
+*.keras
+*.pt
+
+# OS files
+.DS_Store
+Thumbs.db
